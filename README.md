@@ -1,4 +1,4 @@
-# python-practice
+# Python practice Repository
 A repository for practicing python programming.
 
 1. **Problem Statement**: Write a function that takes two numbers as input and returns their sum.
